@@ -1,5 +1,6 @@
 ### Hey, I'm Tan 👋
-
+- 🔭 I’m passionate about building iOS advanced apps
+- 🌱 I’m currently learning SwiftUI
 <!--
 **tantan39/tantan39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
