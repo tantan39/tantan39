@@ -1,6 +1,6 @@
 ### Hey, I'm Tan 👋
 - 🔭 I’m passionate about building iOS/macOS advanced apps
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning Flutter
 - 🧑🏻‍💻 I’m currently working on [TrSnapShot](https://apps.apple.com/us/app/trsnapshot/id6443472244?mt=12)
 <!--
 **tantan39/tantan39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
